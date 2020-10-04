@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-231853595/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-231853595/app.iml" group="java/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/doraemonkit.iml" filepath="$PROJECT_DIR$/.idea/modules/doraemonkit.iml" group="java/doraemonkit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1372047217/doraemonkit-leakcanary.iml" filepath="$PROJECT_DIR$/.idea/modules/-1372047217/doraemonkit-leakcanary.iml" group="java/doraemonkit-leakcanary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/165120537/doraemonkit-no-op.iml" filepath="$PROJECT_DIR$/.idea/modules/165120537/doraemonkit-no-op.iml" group="java/doraemonkit-no-op" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/880394247/doraemonkit-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/880394247/doraemonkit-plugin.iml" group="java/doraemonkit-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1806702037/doraemonkit-weex.iml" filepath="$PROJECT_DIR$/.idea/modules/1806702037/doraemonkit-weex.iml" group="java/doraemonkit-weex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/279935955/java.iml" filepath="$PROJECT_DIR$/.idea/modules/279935955/java.iml" group="java" />
+    </modules>
+  </component>
+</project>
